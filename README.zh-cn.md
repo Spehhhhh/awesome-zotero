@@ -181,7 +181,7 @@
 
 感谢所有贡献者。
 
-- [Alex](https://github.com/Spehhhhh) @Spehhhhh
+- [Alex](https://github.com/Spehhhhh) [@Spehhhhh]
 
 ## Contact
 
