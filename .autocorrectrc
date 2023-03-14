@@ -1,13 +1,13 @@
+# yaml-language-server: $schema=https://huacnlee.github.io/autocorrect/schema.json
+# Default rules: https://github.com/huacnlee/autocorrect/raw/main/autocorrect/.autocorrectrc.default
+rules:
+  spellcheck: 2
 spellcheck:
-  mode: 1
   words:
-    # Please do not add a general English word (eg. apple, python) here.
-    # Users can add their special words to their .autocorrectrc file by their need.
     - ActiveMQ
     - AirPods
     - Aliyun
     - API
-    - App
     - App Store
     - AppKit
     - AppStore = App Store
