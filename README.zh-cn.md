@@ -130,6 +130,7 @@
 - [Zotero Scihub](https://github.com/ethanwillis/zotero-scihub) - 该插件从事科研工作必备。自动下载付费墙背后的论文。提醒：需要科学上网。
 - [Zotero Duplicates Merger](https://github.com/frangoud/ZoteroDuplicatesMerger) - 该插件能帮助你大规模批量去重条目，必备。
 - [Zotero Update IFs](https://github.com/redleafnew/zotero-updateifs) -  该插件是一款帮助你从**唯问**更新期刊影响因子的插件。
+- https://github.com/redleafnew/zotero-updateifsE
 - [zotero-folder-import](https://github.com/retorquere/zotero-folder-import) - 该插件让 Zotero 支持导入一整个文件夹。
 - [zotero-memento](https://github.com/leonkt/zotero-memento) - 该插件能自动把那些通过 Translator 添加到 Library 的网页保存到多个互联网档案馆（Internet Archive、archive.is、archive.today 等）。
 - [Zotfile](https://github.com/jlegewie/zotfile) - 该插件原本最好用的功能是自动重命名下载的文件。结果，Zotero 新版自带这个功能了。所以这个亮点被淹没了。无论如何，如果需要更多自定义，自动重命名的方法，以及提取 PDF 注释，这个插件还是绕不过；
@@ -145,10 +146,19 @@
 - [TobiHol/zotero-more-metadata](https://github.com/TobiHol/zotero-more-metadata) - TODO
 - [UB-Mannheim/zotero-ocr: Zotero Plugin for OCR](https://github.com/UB-Mannheim/zotero-ocr) - TODO
 - [qnscholar/zotero-if](https://github.com/qnscholar/zotero-if) - TODO
+- https://github.com/windingwind/zotero-better-notes
+- https://github.com/MuiseDestiny/zotero-style
+- https://github.com/MuiseDestiny/zotero-reference
+- https://github.com/MuiseDestiny/zotero-citation
+- https://github.com/mhucka/zowie
 
 ### TODO Zotero Plugins Dev
 
 > 常用的 Zotero Plugins 开发资源。
+
+- https://github.com/windingwind/zotero-plugin-template
+- https://github.com/windingwind/zotero-plugin-toolkit
+- https://github.com/windingwind/zotero-types
 
 ## Zotero Translators
 
@@ -170,6 +180,8 @@
 ## Contributors
 
 感谢所有贡献者。
+
+- [Alex](https://github.com/Spehhhhh) @Spehhhhh
 
 ## Contact
 
