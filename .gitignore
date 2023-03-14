@@ -1,18 +1,27 @@
-node_modules/
-dist/*.html
-dist/*.json
-dist
-npm-debug.log*
-package-lock.json
+# gitignore
 
+# macOS
+._*
+.AppleDouble
 .DS_Store
-.cache
-.rdoc-dist
+.localized
+.LSOverride
+.Spotlight-V100
+.Trashes
+
+# Windows
+Desktop.ini
+ehthumbs.db
+Thumbs.db
+
+# VS Code
 .vscode
 
-*.bak
-*.tem
-*.temp
-#.swp
-*.*~
-~*.*
+# Vercel
+.vercel
+
+# Book build output
+book/
+*.epub
+*.mobi
+*.pdf
